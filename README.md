@@ -1,6 +1,6 @@
 # SpaceX_capstone_project
 
-The "SpaceX_capstone_project" is a GitHub repository created by user Am0MuK. It contains a project that serves as a capstone for a data science course, with a focus on data wrangling, exploratory data analysis, and machine learning.
+The "SpaceX_capstone_project" is a GitHub repository created by user Am0MuK. It contains a project that serves as a capstone for IBM data science course,Check out [My Coursera certificate](https://coursera.org/share/9f9f2079a90c76bac52f1b4ca26a3cb4), with a focus on data wrangling, exploratory data analysis, and machine learning.
 
 The project involves analyzing data from SpaceX launches, with the goal of predicting whether a launch will be successful or not. The repository contains a Jupyter notebook that guides the user through the various steps of the project, from data cleaning to model training and evaluation.
 
